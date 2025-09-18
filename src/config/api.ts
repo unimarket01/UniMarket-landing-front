@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const apiClient = axios.create({
-  baseURL: 'http://localhost:8080/api/users', 
+  baseURL: 'https://unimarket-landing-back.onrender.com', 
   timeout: 10000, 
 });
 
