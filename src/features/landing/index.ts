@@ -5,8 +5,6 @@ export { default as HowItWorks } from './components/HowItWorks';
 export { default as Benefits } from './components/Benefits';
 export { default as JoinWaitlistForm } from './components/joinWaitlistForm';
 export { default as Footer } from './components/Footer';
-export type { default as WaitlistStats } from './components/WaitlistStats';
-
 // Pages
 export { default as Home } from './pages/Home';
 
