@@ -1,4 +1,3 @@
-import React, { useEffect, useState } from "react";
 import delivery from "../../../assets/images/delivery.png";
 
 const Hero: React.FC = () => {
