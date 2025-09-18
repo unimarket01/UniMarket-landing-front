@@ -1,5 +1,5 @@
 import React from "react";
-import { GraduationCap, CircleAlert, Zap, MessageSquare} from 'lucide-react';
+import { GraduationCap, CircleAlert, MessageSquare} from 'lucide-react';
 
 const Benefits: React.FC = () => {
     return(
