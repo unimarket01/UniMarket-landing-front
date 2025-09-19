@@ -15,7 +15,7 @@ export const JoinWaitlistApi = async (
     params.append("name", userData.name);
     params.append("email", userData.email);
 
-    const response = await apiClient.post("/register", params, {
+    const response = await apiClient.post("/api/users/register", params, {
       timeout: 30000,
     });
 
